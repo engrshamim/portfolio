@@ -1,14 +1,15 @@
 *{
     background-color: rgb(245, 220, 187);
     font-family: 'Bangla', sans-serif;
-    padding: 15px 20px 15px 20px;
+    padding: 15px 5px 15px 5px;
     text-align: justify;
+    
 
 }
 h1{
     text-align: center;
     background-color: red;
-    padding: 20px;
+    padding: 10px;
 
 }
 h2{
